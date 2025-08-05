@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "Qual é a capital do Brasil?",
+    "options": [
+      { "id": "a", "text": "São Paulo", "isCorrect": false },
+      { "id": "b", "text": "Brasília", "isCorrect": true },
+      { "id": "c", "text": "Rio de Janeiro", "isCorrect": false },
+      { "id": "d", "text": "Salvador", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qual é a linguagem usada para estilizar páginas web?",
+    "options": [
+      { "id": "a", "text": "HTML", "isCorrect": false },
+      { "id": "b", "text": "Python", "isCorrect": false },
+      { "id": "c", "text": "CSS", "isCorrect": true },
+      { "id": "d", "text": "Java", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Quantos dias tem um ano bissexto?",
+    "options": [
+      { "id": "a", "text": "364", "isCorrect": false },
+      { "id": "b", "text": "365", "isCorrect": false },
+      { "id": "c", "text": "366", "isCorrect": true },
+      { "id": "d", "text": "367", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qual destes é um sistema operacional?",
+    "options": [
+      { "id": "a", "text": "Windows", "isCorrect": true },
+      { "id": "b", "text": "Photoshop", "isCorrect": false },
+      { "id": "c", "text": "Illustrator", "isCorrect": false },
+      { "id": "d", "text": "InDesign", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qual é o resultado de 2 + 2?",
+    "options": [
+      { "id": "a", "text": "3", "isCorrect": false },
+      { "id": "b", "text": "4", "isCorrect": true },
+      { "id": "c", "text": "5", "isCorrect": false },
+      { "id": "d", "text": "22", "isCorrect": false }
+    ]
+  }
+]
